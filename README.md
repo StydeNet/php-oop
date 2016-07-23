@@ -14,7 +14,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 1. [¿Por qué necesitamos clases y objetos?](https://styde.net/por-que-necesitamos-clases-y-objetos-php/) - 19:43
 
-2. Encapsulamiento, getters y setters
+2. [Encapsulamiento, getters y setters](https://styde.net/encapsulamiento-y-uso-de-getters-y-setters-en-php/) - 24:38
 
 3. Herencia y abstracción
 
