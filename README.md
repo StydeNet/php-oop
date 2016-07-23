@@ -18,7 +18,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 3. [Herencia y abstracción](https://styde.net/herencia-y-abstraccion-con-php/)- 13:14
 
-4. Interacción entre objetos
+4. [Interacción entre objetos](https://styde.net/interaccion-entre-objetos/) - 14:39
 
 5. Interfaces y polimorfismo
 
