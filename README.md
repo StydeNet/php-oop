@@ -20,7 +20,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 4. [Interacción entre objetos](https://styde.net/interaccion-entre-objetos/) - 14:39
 
-5. Interfaces y polimorfismo
+5. [Interfaces y polimorfismo](https://styde.net/interfaces-y-polimorfismo/) - 26:07
 
 6. Autocarga y nombres de espacio
 
