@@ -16,7 +16,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 2. [Encapsulamiento, getters y setters](https://styde.net/encapsulamiento-y-uso-de-getters-y-setters-en-php/) - 24:38
 
-3. Herencia y abstracción
+3. [Herencia y abstracción](https://styde.net/herencia-y-abstraccion-con-php/)- 13:14
 
 4. Interacción entre objetos
 
