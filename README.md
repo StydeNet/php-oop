@@ -30,7 +30,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 9. [Factory y value objects](https://styde.net/patron-factory-y-value-objects-oop/) - 20:09
 
-10. Reducción de condicionales y código estructurado
+10. [Reducción de condicionales y código estructurado](https://styde.net/reduccion-de-uso-de-condicionales-if-y-sentencias-switch/) - 8:20
 
 11. Métodos y propiedades estáticos 
 
