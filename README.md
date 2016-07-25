@@ -26,7 +26,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 7. [Composer y PSR-4](https://styde.net/autocarga-de-clases-con-composer-y-psr-4/) - 22:01
 
-8. Repaso y solución de ejercicios
+8. [Repaso y solución de ejercicios](https://styde.net/repaso-y-solucion-a-los-ejercicios/) - 19:54
 
 9. Factory y value objects 
 
