@@ -22,7 +22,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 5. [Interfaces y polimorfismo](https://styde.net/interfaces-y-polimorfismo/) - 26:07
 
-6. Autocarga y nombres de espacio
+6. [Autocarga y nombres de espacio](https://styde.net/autoload-namespaces-php/) - 21:02
 
 7. Composer y PSR-4
 
