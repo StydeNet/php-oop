@@ -24,7 +24,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 6. [Autocarga y nombres de espacio](https://styde.net/autoload-namespaces-php/) - 21:02
 
-7. Composer y PSR-4
+7. [Composer y PSR-4](https://styde.net/autocarga-de-clases-con-composer-y-psr-4/) - 22:01
 
 8. Repaso y solución de ejercicios
 
