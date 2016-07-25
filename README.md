@@ -28,7 +28,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 8. [Repaso y solución de ejercicios](https://styde.net/repaso-y-solucion-a-los-ejercicios/) - 19:54
 
-9. Factory y value objects 
+9. [Factory y value objects](https://styde.net/patron-factory-y-value-objects-oop/) - 20:09
 
 10. Reducción de condicionales y código estructurado
 
