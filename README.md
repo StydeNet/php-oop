@@ -40,7 +40,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 12. [Constructores semánticos e interfaces fluidas](https://styde.net/named-constructors-and-fluent-interfaces/) - 6:00
 
-13. Creación y uso de “Facades” e interfaces
+13. [Creación y uso de “Facades” e interfaces](https://styde.net/que-son-los-facades-y-como-implementarlos-en-tu-proyecto/) - 13:47
 
 14. Uso de Constantes en las clases de PHP
 
