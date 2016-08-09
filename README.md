@@ -12,6 +12,8 @@ Así que dominando estos conceptos de OOP no solo serás mucho más productivo y
 
 Este curso explica programación orientada a objetos desde cero, para verlo sólo requieres de: conocimientos básicos de PHP, un servidor (preferiblemente local) donde puedas ejecutar el código PHP y por supuesto muchos ánimos de aprender:
 
+## Parte 1: Programación orientada a objetos desde cero
+
 1. [¿Por qué necesitamos clases y objetos?](https://styde.net/por-que-necesitamos-clases-y-objetos-php/) - 19:43
 
 2. [Encapsulamiento, getters y setters](https://styde.net/encapsulamiento-y-uso-de-getters-y-setters-en-php/) - 24:38
@@ -32,11 +34,25 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 10. [Reducción de condicionales y código estructurado](https://styde.net/reduccion-de-uso-de-condicionales-if-y-sentencias-switch/) - 8:20
 
-11. Métodos y propiedades estáticos 
+## Parte 2: Métodos y propiedades estáticas y constantes
 
-12. Ejemplos de OOP en Laravel 
+11. [Métodos y propiedades estáticos](https://styde.net/propiedades-y-metodos-estaticos/) - 19:41
 
-13. Entre otras lecciones
+12. Constructores semánticos e interfaces fluidas
+
+13. Creación y uso de “Facades” e interfaces
+
+14. Uso de Constantes en las clases de PHP
+
+## Métodos mágicos
+
+15. __get, __set, __isset y __unset
+
+16. Instalación y uso de paquetes con Composer
+
+17. Ejemplos de OOP en Laravel
+
+18. Entre otras lecciones
 
 
 > Este curso se encuentra en desarrollo, por favor regresa cada semana para ver las nuevas lecciones
