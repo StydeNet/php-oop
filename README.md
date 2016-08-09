@@ -46,7 +46,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 ## Métodos mágicos
 
-15. __get, __set, __isset y __unset
+15. [__get, __set, __isset y __unset](https://styde.net/uso-de-los-metodos-magicos-__get-__set-__isset-y-__unset-con-php/) - 20:22
 
 16. Instalación y uso de paquetes con Composer
 
