@@ -38,7 +38,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 11. [Métodos y propiedades estáticos](https://styde.net/propiedades-y-metodos-estaticos/) - 19:41
 
-12. Constructores semánticos e interfaces fluidas
+12. [Constructores semánticos e interfaces fluidas](https://styde.net/named-constructors-and-fluent-interfaces/) - 6:00
 
 13. Creación y uso de “Facades” e interfaces
 
