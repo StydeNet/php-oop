@@ -42,7 +42,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 13. [Creación y uso de “Facades” e interfaces](https://styde.net/que-son-los-facades-y-como-implementarlos-en-tu-proyecto/) - 13:47
 
-14. Uso de Constantes en las clases de PHP
+14. [Uso de Constantes en las clases de PHP](https://styde.net/como-declarar-y-usar-constantes-de-clases/) - 8:57
 
 ## Métodos mágicos
 
