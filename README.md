@@ -48,11 +48,13 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 15. [__get, __set, __isset y __unset](https://styde.net/uso-de-los-metodos-magicos-__get-__set-__isset-y-__unset-con-php/) - 20:22
 
-16. Instalación y uso de paquetes con Composer
+16. [Llamadas dinámicas a métodos con PHP](https://styde.net/llamadas-dinamicas-a-metodos-con-php/) - 11:33
 
-17. Ejemplos de OOP en Laravel
+17. Instalación y uso de paquetes con Composer
 
-18. Entre otras lecciones
+18. Ejemplos de OOP en Laravel
+
+19. Entre otras lecciones
 
 
 > Este curso se encuentra en desarrollo, por favor regresa cada semana para ver las nuevas lecciones
