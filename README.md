@@ -50,11 +50,17 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 16. [Llamadas dinámicas a métodos con PHP](https://styde.net/llamadas-dinamicas-a-metodos-con-php/) - 11:33
 
-17. Instalación y uso de paquetes con Composer
+17. [__call y __callStatic](https://styde.net/ llamadas-a-metodos-magicos-con-__call-y-__callstatic-en-php/) -
+21:29
 
-18. Ejemplos de OOP en Laravel
+## Complementos
+18. Instalación y uso de paquetes con Composer
 
-19. Entre otras lecciones
+19. Introducción a las pruebas unitarias con PHPUnit
+
+20. Ejemplos de OOP en Laravel
+
+21. Entre otras lecciones
 
 
 > Este curso se encuentra en desarrollo, por favor regresa cada semana para ver las nuevas lecciones
