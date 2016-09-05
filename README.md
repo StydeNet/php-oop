@@ -53,6 +53,8 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 17. [__call y __callStatic](https://styde.net/ llamadas-a-metodos-magicos-con-__call-y-__callstatic-en-php/) -
 21:29
 
+18. [Uso de los métodos mágicos __toString y __invoke en PHP](https://styde.net/uso-de-los-metodos-magicos-__tostring-y-__invoke-en-php/) - 13:51
+
 ## Complementos
 18. Instalación y uso de paquetes con Composer
 
