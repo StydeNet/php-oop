@@ -57,7 +57,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 19. [__sleep y __wakeup](https://styde.net/metodos-magicos-__sleep-y-__wakeup-en-php/) - 16:35
 
-20. __clone
+20. [__clone](https://styde.net/como-clonar-objetos-y-usar-el-metodo-magico-__clone/) -16:26
 
 ##Parte 4: Complementos
 
