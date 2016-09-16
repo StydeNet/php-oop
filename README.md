@@ -44,7 +44,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 14. [Uso de Constantes en las clases de PHP](https://styde.net/como-declarar-y-usar-constantes-de-clases/) - 8:57
 
-## Métodos mágicos
+## Parte 3: Métodos mágicos
 
 15. [__get, __set, __isset y __unset](https://styde.net/uso-de-los-metodos-magicos-__get-__set-__isset-y-__unset-con-php/) - 20:22
 
@@ -55,14 +55,25 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 18. [Uso de los métodos mágicos __toString y __invoke en PHP](https://styde.net/uso-de-los-metodos-magicos-__tostring-y-__invoke-en-php/) - 13:51
 
-## Complementos
-18. Instalación y uso de paquetes con Composer
+19. [__sleep y __wakeup](https://styde.net/metodos-magicos-__sleep-y-__wakeup-en-php/) - 16:35
 
-19. Introducción a las pruebas unitarias con PHPUnit
+20. __clone
 
-20. Ejemplos de OOP en Laravel
+##Parte 4: Complementos
 
-21. Entre otras lecciones
+21. Iteración de objetos
+
+22. Objetos inmutables
+
+23. Comparación entre objetos
+
+24. Instalación y uso de paquetes con Composer
+
+25. Introducción a las pruebas unitarias con PHPUnit
+
+26. Ejemplos de OOP en Laravel
+
+27. Entre otras lecciones
 
 
 > Este curso se encuentra en desarrollo, por favor regresa cada semana para ver las nuevas lecciones
