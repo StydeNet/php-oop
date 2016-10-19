@@ -63,7 +63,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 21. [Iteración de objetos](https://styde.net/iteracion-de-objetos-en-php/) - 11:57
 
-22. Objetos inmutables
+22. [Objetos inmutables](https://styde.net/objetos-inmutables-en-php/) - 21:29
 
 23. Comparación entre objetos
 
