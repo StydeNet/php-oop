@@ -71,7 +71,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 25. [Creación de macros con traits, métodos estáticos y __call](https://styde.net/creacion-de-macros-en-php-usando-traits-metodos-estaticos-y-__call/) - 16:35
 
-26. Instalación y uso de paquetes con Composer
+26. [Instalación y uso de paquetes con Composer](https://styde.net/instalacion-y-uso-de-componentes-de-terceros-con-composer/) - 10:39
 
 27. Desarrollo de métodos con pruebas automatizadas
 
