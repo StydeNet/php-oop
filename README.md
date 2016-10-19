@@ -61,7 +61,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 ##Parte 4: Complementos
 
-21. Iteración de objetos
+21. [Iteración de objetos](https://styde.net/iteracion-de-objetos-en-php/) - 11:57
 
 22. Objetos inmutables
 
