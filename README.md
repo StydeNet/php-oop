@@ -69,7 +69,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 24. [Creación y uso de traits en PHP](https://styde.net/traits-en-php/) 17:39
 
-25. Creación de macros con traits, métodos estáticos y __call
+25. [Creación de macros con traits, métodos estáticos y __call](https://styde.net/creacion-de-macros-en-php-usando-traits-metodos-estaticos-y-__call/) - 16:35
 
 26. Instalación y uso de paquetes con Composer
 
