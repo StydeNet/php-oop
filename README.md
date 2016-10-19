@@ -67,7 +67,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 23. [Comparación entre objetos](https://styde.net/comparacion-entre-objetos-en-php/) - 9:34
 
-24. Creación y uso de traits en PHP
+24. [Creación y uso de traits en PHP](https://styde.net/traits-en-php/) 17:39
 
 25. Creación de macros con traits, métodos estáticos y __call
 
