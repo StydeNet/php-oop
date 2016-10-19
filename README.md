@@ -73,10 +73,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 26. [Instalación y uso de paquetes con Composer](https://styde.net/instalacion-y-uso-de-componentes-de-terceros-con-composer/) - 10:39
 
-27. Desarrollo de métodos con pruebas automatizadas
-
-
-> Este curso se encuentra en desarrollo, por favor regresa cada semana para ver las nuevas lecciones
+27. [Desarrollo de métodos con pruebas automatizadas](https://styde.net/desarrollo-de-clases-y-metodos-con-pruebas-automatizadas/) - 17:28
 
 
 ### Otros cursos
