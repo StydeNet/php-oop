@@ -65,15 +65,15 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 22. [Objetos inmutables](https://styde.net/objetos-inmutables-en-php/) - 21:29
 
-23. Comparación entre objetos
+23. [Comparación entre objetos](https://styde.net/comparacion-entre-objetos-en-php/) - 9:34
 
-24. Instalación y uso de paquetes con Composer
+24. Creación y uso de traits en PHP
 
-25. Introducción a las pruebas unitarias con PHPUnit
+25. Creación de macros con traits, métodos estáticos y __call
 
-26. Ejemplos de OOP en Laravel
+26. Instalación y uso de paquetes con Composer
 
-27. Entre otras lecciones
+27. Desarrollo de métodos con pruebas automatizadas
 
 
 > Este curso se encuentra en desarrollo, por favor regresa cada semana para ver las nuevas lecciones
