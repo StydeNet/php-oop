@@ -96,4 +96,4 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 - [Curso de Vue.js](https://styde.net/curso-de-vue-js/)
 -	[Curso de Sass](https://styde.net/curso-de-sass/)
 
-© 2016 [Styde.net](https://styde.net/)
+© 2016 - 2017 [Styde.net](https://styde.net/)
