@@ -92,9 +92,8 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
  -   [Interfaces dinámicas con Laravel y jQuery](https://styde.net/curso-de-interfaces-dinamicas-con-laravel-y-jquery/)
 
 **Otras tecnologías**
--   [Curso de Gulp](https://styde.net/curso-gulp-y-herramientas-de-automatizacion/)
--   [Curso de Vue.js](https://styde.net/curso-de-vue-js/)
+- [Curso de Gulp](https://styde.net/curso-gulp-y-herramientas-de-automatizacion/)
+- [Curso de Vue.js](https://styde.net/curso-de-vue-js/)
 -	[Curso de Sass](https://styde.net/curso-de-sass/)
--	[Curso básico de Swift](https://styde.net/curso-basico-de-swift/)
 
 © 2016 [Styde.net](https://styde.net/)
