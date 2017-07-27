@@ -73,8 +73,15 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 26. [Instalación y uso de paquetes con Composer](https://styde.net/instalacion-y-uso-de-componentes-de-terceros-con-composer/) - 10:39
 
+## Parte 5: Desarrollo con pruebas (PHPUnit)
+
 27. [Desarrollo de métodos con pruebas automatizadas](https://styde.net/desarrollo-de-clases-y-metodos-con-pruebas-automatizadas/) - 17:28
 
+28. [Array Access, parte 1](https://styde.net/array-access-en-php-1/) - 8:09
+
+29. [Array Access, parte 2](https://styde.net/array-access-en-php-2/) - 11:10
+
+30. [Clases anónimas](https://styde.net/clases-anonimas-en-php/) - 9:22
 
 ### Otros cursos
 
@@ -94,6 +101,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 **Otras tecnologías**
 - [Curso de Gulp](https://styde.net/curso-gulp-y-herramientas-de-automatizacion/)
 - [Curso de Vue.js](https://styde.net/curso-de-vue-js/)
+- [Curso de Vue.js 2](https://styde.net/curso-de-vue-2/)
 -	[Curso de Sass](https://styde.net/curso-de-sass/)
 
 © 2016 - 2017 [Styde.net](https://styde.net/)
