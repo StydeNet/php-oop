@@ -50,7 +50,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 16. [Llamadas dinámicas a métodos con PHP](https://styde.net/llamadas-dinamicas-a-metodos-con-php/) - 11:33
 
-17. [__call y __callStatic](https://styde.net/ llamadas-a-metodos-magicos-con-__call-y-__callstatic-en-php/) -
+17. [__call y __callStatic](https://styde.net/llamadas-a-metodos-magicos-con-__call-y-__callstatic-en-php/) -
 21:29
 
 18. [Uso de los métodos mágicos __toString y __invoke en PHP](https://styde.net/uso-de-los-metodos-magicos-__tostring-y-__invoke-en-php/) - 13:51
@@ -59,7 +59,7 @@ Este curso explica programación orientada a objetos desde cero, para verlo sól
 
 20. [__clone](https://styde.net/como-clonar-objetos-y-usar-el-metodo-magico-__clone/) -16:26
 
-##Parte 4: Complementos
+## Parte 4: Complementos
 
 21. [Iteración de objetos](https://styde.net/iteracion-de-objetos-en-php/) - 11:57
 
